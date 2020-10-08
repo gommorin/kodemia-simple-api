@@ -1,0 +1,7 @@
+"scripts": {
+    "iniciar": "node index.js", /* esta es una prueba para aprender a usar alias*/
+    "inimon": "nodemon index.js", /* esta es una prueba para aprender a usar alias*/
+    "start": "node index.js", /* es un script especial que no requiere RUN para correrlo */
+    "test": "echo 'hola test'", /* es un script especial que no requiere RUN para correrlo */
+    "dev": "nodemon index.js" /* se usa para iniciar en modo developer*/
+},
